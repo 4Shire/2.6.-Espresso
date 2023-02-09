@@ -20,6 +20,7 @@ import org.junit.runner.RunWith;
 
 import io.qameta.allure.android.runners.AllureAndroidJUnit4;
 
+
 @RunWith(AllureAndroidJUnit4.class)
 public class TestWithIdlingResources {
     @Rule
